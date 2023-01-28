@@ -4,6 +4,8 @@ QuecPython, inherited from microPython, provides python programming capability f
 
 All of QuecPython's software, relating to the various series of Quectel's IoT modules, are available on this GitHub site. To check out all the series of Quectel's IoT modules, please visit [https://python.quectel.com](https://python.quectel.com).
 
+Below you can find a selection of QuecPython's open-source projects. Our full repository list can be found [here](https://github.com/orgs/QuecPython/repositories).
+
 ## SDK
 
 - [HeliosSDK](https://github.com/QuecPython/HeliosSDK)
