@@ -37,6 +37,7 @@ Below you can find a selection of QuecPython's open-source projects. Our full re
 ## tools
 
 - [QPYcom](https://github.com/QuecPython/QPYcom)
+- [DTU-tool](https://github.com/QuecPython/DTU-tool)
 - [FactoryTool](https://github.com/QuecPython/FactoryTool)
 
-If you are looking for the QuecPython official documentation, click on [this](https://python.quectel.com/docsite/en-us/docs/Quecpython_intro/QPY_history.html) link.
+If you are looking for the QuecPython official documentation, click on [this](https://python.quectel.com/doc/en/) link.
