@@ -8,7 +8,7 @@ Below you can find a selection of QuecPython's open-source projects. Our full re
 
 ## SDK
 
-- [HeliosSDK](https://github.com/QuecPython/HeliosSDK)
+- [HeliosSDK](https://github.com/QuecPython/Helios)
 - [toolchain](https://github.com/QuecPython/toolchain/releases)
 
 ## Solutions
@@ -33,6 +33,7 @@ Below you can find a selection of QuecPython's open-source projects. Our full re
 - [EventMesh](https://github.com/QuecPython/EventMesh)
 - [jtt808](https://github.com/QuecPython/jtt808)
 - [gt06](https://github.com/QuecPython/gt06)
+- [TR069-Server](https://github.com/QuecPython/TR069-Server)
 
 ## tools
 
