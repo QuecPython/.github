@@ -18,7 +18,7 @@ Below you can find a selection of QuecPython's open-source projects. Our full re
     - Simplified version only supports raw transmission over TCP/UDP, the configurations is fixed.
 - [tracker](https://github.com/QuecPython/solution-tracker)
 - [POC](https://github.com/QuecPython/solution-POC)
-- [electricMeter](https://github.com/QuecPython/solution-electricMeter)
+- [electricMeter](https://github.com/QuecPython/solution-electricity-meter)
 - [cloudBOX](https://github.com/QuecPython/solution-cloudBOX)
 - [studentCard](https://github.com/QuecPython/solution-studentCard)
 - [eleBicycleChargingPile](https://github.com/QuecPython/solution-eleBicycleChargingPile)
