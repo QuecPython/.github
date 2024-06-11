@@ -1,7 +1,7 @@
 # Welcome to QuecPython’s site on GitHub
 
 <center>
-<img src="./QuecPython-logo.png" style="zoom:40%"/>
+<img src="./QuecPython-logo.png" style="zoom:100%"/>
 </center>
 
 <br>
