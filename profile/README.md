@@ -42,7 +42,7 @@ Below you can find a selection of QuecPython's open-source projects. Our full re
 
 [Click](https://github.com/search?q=org%3AQuecPython+topic%3Acomponent&type=repositories) for more components.
 
-### tools
+### Tools
 
 - **[qpm-installer](https://github.com/QuecPython/qpm_installer)** - Install qpm to manage QuecPython project.
 - **[helios-toolchain](https://github.com/QuecPython/toolchain)** - Helios SDK compilation toolchain.
