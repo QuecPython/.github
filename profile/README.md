@@ -27,16 +27,17 @@ Below you can find a selection of QuecPython's open-source projects. Our full re
 
 [Click](https://github.com/search?q=org%3AQuecPython%20topic%3Asolution&type=repositories) for more solutions.
 
+### Drivers
+- **[drivers](https://github.com/quecpython/drivers)** - A collection of driver code and reference manuals for various peripherals based on QuecPython.
+
 ### Components
+- **[QFrame](https://github.com/QuecPython/QFrame)** - A QuecPython-based application framework.
 - **[OCPP-v1.6](https://github.com/QuecPython/OCPP-v1.6)** - Electric Vehicle Charging Station Communication Protocol.
 - **[AIS-140](https://github.com/QuecPython/AIS-140)** - Indian Automotive Location Device Communication Protocol.
 - **[jtt808](https://github.com/QuecPython/jtt808)** - Chinese Automotive Location Device Communication Protocol.
 - **[gt06](https://github.com/QuecPython/gt06)** - Communication Protocol between GPS positioning devices (such as vehicle trackers or other telematics devices) and servers.
 - **[snmp](https://github.com/QuecPython/snmp)** - Simple Network Management Protocol, supporting versions v1 and v2.
 - **[uwebsocket](https://github.com/QuecPython/uwebsocket)** - WebSocket Protocol.
-- **[uasyncio](https://github.com/QuecPython/uasyncio)** - Coroutine framework for QuecPython.
-- **[EventMesh](https://github.com/QuecPython/EventMesh)** - Event management module.
-- **[TR069-Server](https://github.com/QuecPython/TR069-Server)** - CPE WAN Management Protocol.
 - **[watch_dog](https://github.com/QuecPython/watch_dog)** - Watchdog framework based on a voting mechanism, allowing each thread to have an independent software watchdog; through voting, the hardware watchdog decides whether to feed or not.
 
 [Click](https://github.com/search?q=org%3AQuecPython+topic%3Acomponent&type=repositories) for more components.
