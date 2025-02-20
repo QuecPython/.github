@@ -16,6 +16,7 @@ Below you can find a selection of QuecPython's open-source projects. Our full re
 
 ### Solutions
 
+- **[AIChatBot-Volcengine-webRTC](https://github.com/quecpython/AIChatBot-Volcengine-webRTC)** - An AI chatbot based on Volcengine's webRTC protocol.
 - **DTU** -  To accommodate various application scenarios, three different DTU solutions have been developed:
     - [Full-featured DTU](https://github.com/QuecPython/solution-DTU) - Supports cloud connecting via multiple protocols like MQTT/HTTP/TCP/UDP, and it's allowed to set the configurations via [DTU-tool](https://github.com/QuecPython/DTU-tool).
     - [Simple DTU](https://github.com/QuecPython/solution-simple-DTU) - A simplified DTU solution only supporting raw transmission over TCP/UDP, the configurations is fixed.
